@@ -1,6 +1,6 @@
-# 🛠️ Java Project Management Tool
+#  Java Project Management Tool
 
-## 📌 Overview
+##  Overview
 This is a simple **Java OOP** project that simulates a basic **project management tool**.  
 It demonstrates the core concepts of Object-Oriented Programming like **inheritance**, **encapsulation**, and **object interaction** by modeling:
 
@@ -13,7 +13,7 @@ This project was created for educational purposes in an **OOP course**.
 
 ---
 
-## 🧱 Class Structure
+##  Class Structure
 
 ### `User`
 - Base class for `Manager` and `TeamMember`.
@@ -42,7 +42,7 @@ This project was created for educational purposes in an **OOP course**.
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. **Clone the Repository:**
    ```bash
